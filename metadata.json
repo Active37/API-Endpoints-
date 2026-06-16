@@ -1,0 +1,6 @@
+{
+  "name": "API Dashboard & Playground",
+  "description": "An interactive environment to execute workspace APIs, build custom mock endpoints, and test AI-enabled utility routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
